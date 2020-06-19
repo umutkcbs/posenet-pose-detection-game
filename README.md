@@ -14,3 +14,8 @@ v2:
 <li>Added countdown</li>
 <li>Added background image</li>
 <li>Added time and auto reload</li>
+<br>
+<br>
+v3:
+<br>
+<li>Translated to English</li>
